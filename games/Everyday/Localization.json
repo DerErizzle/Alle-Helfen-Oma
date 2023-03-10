@@ -115,19 +115,19 @@
         "TARGET_MULTIPLIER": "Schwierigkeit",
         "TARGET_MULTIPLIER_DESCRIPTION": "Passt an, wie schwierig das Erhalten einer guten Bewertung ist.<br/>(\"Normal\" ist die Standardeinstellung).",
         
-        "STORY_PARAGRAPH_0_HEADER": "MENSCHLICHE HERAUSFORDERUNG",
-        "STORY_PARAGRAPH_1_HEADER": "FAMILIENZIEL",
-        "STORY_PARAGRAPH_1_TEXT": "Erreicht die tägliche Mindestpunktzahl um zu bestehen. Erledigt sämtliche Sonderaufgaben, um eine \"1\" zu erhalten.",
+        "STORY_PARAGRAPH_0_HEADER": "OMAS BITTE AN EUCH",
+        "STORY_PARAGRAPH_1_HEADER": "ENKELZIEL",
+        "STORY_PARAGRAPH_1_TEXT": "Erreicht die tägliche Mindestpunktzahl um Oma zufrieden zu stellen. Erledigt sämtliche Sonderaufgaben, um eine \"1\" zu erhalten.",
         
         "EMERGENCY_CAUSED_BY":"DAS EGOISTISCHE VERHALTEN VON <PLAYER_NAME> HAT DIESEN NOTFALL VERURSACHT",
         
-        "CAT_NAME_CHANGE_PROMPT": "Wie soll die Katze der Familie heißen?",
+        "CAT_NAME_CHANGE_PROMPT": "Wie soll die Katze der Oma heißen?",
         
         "TARGET_MULTIPLIER_VERY_EASY": "Sehr einfach",
         "TARGET_MULTIPLIER_EASY": "Einfach",
         "TARGET_MULTIPLIER_NORMAL": "Normal",
         "TARGET_MULTIPLIER_HARD": "Schwer",
-        "TARGET_MULTIPLIER_DEMONIC": "Teuflisch",
+        "TARGET_MULTIPLIER_DEMONIC": "Sehr Schwer",
         "TARGET_MULTIPLIER_IMPOSSIBLE": "Unmöglich"
     },
     "fr": {},

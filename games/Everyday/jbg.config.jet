@@ -16,7 +16,7 @@
 	"videoplayer":"true",
 	"flashKeyboard":"true",
 	"supportsFullScreen":"true",
-	"serverUrl":"ecast.jackboxgames.com",
+	"serverUrl":"ecast-qa.jackboxgames.com",
 	"debug":"false",
 	"logging":"false",
 	"uaAppName":"Everyday",
